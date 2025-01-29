@@ -1,0 +1,12 @@
+# Ignore Conda environment directory
+cournot-env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore data files (when needed)
+data/
+
+#Ignore files by Adrien
+adrien*.ipynb
